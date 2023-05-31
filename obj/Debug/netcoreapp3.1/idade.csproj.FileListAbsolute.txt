@@ -1,0 +1,24 @@
+/Users/juliacoelho/idade/bin/Debug/netcoreapp3.1/idade.deps.json
+/Users/juliacoelho/idade/bin/Debug/netcoreapp3.1/idade.runtimeconfig.json
+/Users/juliacoelho/idade/bin/Debug/netcoreapp3.1/idade.runtimeconfig.dev.json
+/Users/juliacoelho/idade/bin/Debug/netcoreapp3.1/idade.dll
+/Users/juliacoelho/idade/bin/Debug/netcoreapp3.1/idade.pdb
+/Users/juliacoelho/idade/obj/Debug/netcoreapp3.1/idade.csprojAssemblyReference.cache
+/Users/juliacoelho/idade/obj/Debug/netcoreapp3.1/idade.AssemblyInfoInputs.cache
+/Users/juliacoelho/idade/obj/Debug/netcoreapp3.1/idade.AssemblyInfo.cs
+/Users/juliacoelho/idade/obj/Debug/netcoreapp3.1/idade.csproj.CoreCompileInputs.cache
+/Users/juliacoelho/idade/obj/Debug/netcoreapp3.1/idade.dll
+/Users/juliacoelho/idade/obj/Debug/netcoreapp3.1/idade.pdb
+/Users/juliacoelho/idade/obj/Debug/netcoreapp3.1/idade.genruntimeconfig.cache
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/bin/Debug/netcoreapp3.1/idade.deps.json
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/bin/Debug/netcoreapp3.1/idade.runtimeconfig.json
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/bin/Debug/netcoreapp3.1/idade.runtimeconfig.dev.json
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/bin/Debug/netcoreapp3.1/idade.dll
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/bin/Debug/netcoreapp3.1/idade.pdb
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/obj/Debug/netcoreapp3.1/idade.csprojAssemblyReference.cache
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/obj/Debug/netcoreapp3.1/idade.AssemblyInfoInputs.cache
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/obj/Debug/netcoreapp3.1/idade.AssemblyInfo.cs
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/obj/Debug/netcoreapp3.1/idade.csproj.CoreCompileInputs.cache
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/obj/Debug/netcoreapp3.1/idade.dll
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/obj/Debug/netcoreapp3.1/idade.pdb
+/Users/juliacoelho/Desktop/VS CODE/senac/idade/obj/Debug/netcoreapp3.1/idade.genruntimeconfig.cache
